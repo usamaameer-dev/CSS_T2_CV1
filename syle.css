@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+.container {
+    max-width: 800px;
+    margin: 40px auto;
+    background: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+h1, h2, h3 {
+    color: #333;
+    margin-bottom: 10px;
+}
+p, li {
+    color: #555;
+    line-height: 1.6;
+}
+ul {
+    list-style-type: square;
+    padding-left: 20px;
+}
+.customCenter{
+    text-align: center;
+}
+.contact-info {
+    margin-bottom: 20px;
+}
+.section {
+    margin-bottom: 30px;
+}
+.section h2 {
+    border-bottom: 2px solid #333;
+    padding-bottom: 5px;
+}
